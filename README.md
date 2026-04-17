@@ -2,20 +2,20 @@ Client Side WiFi Network Experience Analyzer
 
 ---
 
-Team Name
+## Team Name
 
 NOVA-DUO
 
 ---
 
-Members
+## Members
 
 - Yashwanth N
 - Pramith Sagar V
 
 ---
 
-Project Overview
+## Project Overview
 
 In today’s environment, WiFi connectivity plays an important role in daily activities such as online learning, communication, and entertainment. However, users often experience issues like slow internet speed, high latency, and unstable connections without understanding the cause.
 
@@ -23,19 +23,19 @@ This project focuses on analyzing WiFi performance from the client side and prov
 
 ---
 
-Problem Statement
+## Problem Statement
 
 Users face WiFi performance problems but are unable to identify the exact reason behind them. Existing tools provide limited information and do not explain the root cause.
 
 ---
 
-Proposed Solution
+## Proposed Solution
 
 The proposed system collects WiFi performance metrics such as latency, jitter, packet loss, and throughput. It analyzes this data to detect issues and identifies the possible root cause. The system also provides suggestions to improve network performance.
 
 ---
 
-Objectives
+## Objectives
 
 - To collect WiFi performance data from the user system
 - To analyze network parameters
@@ -45,7 +45,7 @@ Objectives
 
 ---
 
-Features
+## Features
 
 - WiFi performance monitoring
 - Signal strength analysis
@@ -56,7 +56,7 @@ Features
 
 ---
 
-Methodology
+## Methodology
 
 1. Collect WiFi data from the system
 2. Process and normalize the data
@@ -67,7 +67,7 @@ Methodology
 
 ---
 
-Tools and Technologies
+## Tools and Technologies
 
 - Python
 - Streamlit
@@ -77,13 +77,13 @@ Tools and Technologies
 
 ---
 
-Expected Outcome
+## Expected Outcome
 
 The system helps users understand their WiFi issues clearly and provides suggestions to improve performance, making troubleshooting easier and faster.
 
 ---
 
-Applications
+## Applications
 
 - Home network troubleshooting
 - Campus network monitoring
@@ -91,6 +91,6 @@ Applications
 
 ---
 
-Conclusion
+## Conclusion
 
 This project provides a simple and effective way to analyze WiFi performance from the user side. It helps in identifying issues quickly and improves the overall user experience.
